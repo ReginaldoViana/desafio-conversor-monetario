@@ -1,8 +1,8 @@
 //
-//  ChooseCurrencyDelegate.swift
+//  Reachability.swift
 //  conversor-monetario
 //
-//  Created by Marcos Fellipe Costa Silva on 24/04/21.
+//  Created by Reginaldo Viana on 19/08/21.
 //
 
 import Foundation
